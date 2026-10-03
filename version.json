@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "notes": "Candy Light theme, Meta login fix (openssl ki zaroorat khatam), auto-update system.",
+  "version": "1.2.1",
+  "notes": "Design fix: Candy Light ab asal app structure par sahi lag raha hai (sab pages/sidebar/buttons).",
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "size": 128023422
+  "size": 128023223
 }
