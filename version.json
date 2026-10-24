@@ -1,9 +1,14 @@
 {
   "changes": [
-    "Installer theme repair: Installing page par text ka overlap/ghich-pich khatam — har label ka background ab solid dark hai, taake update hone wala status text har dafa saaf chhape; License ka text box bhi dark karne ki koshish ki gayi hai.",
-    "Notifications aur Activity Logs me ab bulk delete hai — har row par checkbox, upar Select All, phir Delete Selected se aik sath sab delete karein (confirm ke baad)."
+    "Download bar ab real-time hai — pehle progress har 5% par update hoti thi (122 MB file par ~6 MB ke jumps), ab har 200ms par MB ginta hua nazar ayega aur sath live speed bhi (jaise 2.4 MB/s)."
   ],
   "history": [
+    {
+      "version": "1.6.19",
+      "changes": [
+        "Download bar ab real-time hai — pehle progress har 5% par update hoti thi (122 MB file par ~6 MB ke jumps), ab har 200ms par MB ginta hua nazar ayega aur sath live speed bhi (jaise 2.4 MB/s)."
+      ]
+    },
     {
       "version": "1.6.18",
       "changes": [
@@ -59,7 +64,7 @@
     }
   ],
   "notes": "Naya version v1.6.16 tayyar hai. Installer ab app theme jaisa.",
-  "size": 128351272,
+  "size": 128351558,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.18"
+  "version": "1.6.19"
 }
