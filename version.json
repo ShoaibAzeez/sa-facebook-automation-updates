@@ -1,10 +1,16 @@
 {
   "changes": [
-    "Notifications page par har notification ke sath Delete button aa gaya hai, aur Activity Logs page par bhi har entry ke sath Delete button hai — delete karne se pehle confirm poocha jayega.",
-    "Update download hote waqt ab bar ke neeche poora status nazar ayega — kitne percent ho gaye, kitni MB aa gayi, kul kitni MB hai aur kitni MB baqi hai.",
-    "Installer ab poori tarah app theme me hai — har step (Welcome, License, Directory, Installing, Finish) dark navy rang me safed text ke sath; logo hata diya gaya hai aur Welcome/Finish ka left panel sirf plain dark strip hai."
+    "Installer theme repair: Installing page par text ka overlap/ghich-pich khatam — har label ka background ab solid dark hai, taake update hone wala status text har dafa saaf chhape; License ka text box bhi dark karne ki koshish ki gayi hai.",
+    "Notifications aur Activity Logs me ab bulk delete hai — har row par checkbox, upar Select All, phir Delete Selected se aik sath sab delete karein (confirm ke baad)."
   ],
   "history": [
+    {
+      "version": "1.6.18",
+      "changes": [
+        "Installer theme repair: Installing page par text ka overlap/ghich-pich khatam — har label ka background ab solid dark hai, taake update hone wala status text har dafa saaf chhape; License ka text box bhi dark karne ki koshish ki gayi hai.",
+        "Notifications aur Activity Logs me ab bulk delete hai — har row par checkbox, upar Select All, phir Delete Selected se aik sath sab delete karein (confirm ke baad)."
+      ]
+    },
     {
       "version": "1.6.17",
       "changes": [
@@ -53,7 +59,7 @@
     }
   ],
   "notes": "Naya version v1.6.16 tayyar hai. Installer ab app theme jaisa.",
-  "size": 128350730,
+  "size": 128351272,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.17"
+  "version": "1.6.18"
 }
