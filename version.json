@@ -1,1 +1,59 @@
-{"changes":["Installer ab app theme jaisa hai — Welcome/Finish pages par dark navy artwork (gol kon wala card, loop logo), har page ke header me theme patti, install progress page dark, app icon aur MetaBox branding; Windows 11 par installer window ke kon bhi gol honge."],"history":[{"version":"1.6.16","changes":["Installer ab app theme jaisa hai — Welcome/Finish pages par dark navy artwork (gol kon wala card, loop logo), har page ke header me theme patti, install progress page dark, app icon aur MetaBox branding; Windows 11 par installer window ke kon bhi gol honge."]},{"version":"1.6.15","changes":["Logo ke rangin boxes wala masla theek hua — hardware acceleration band kar di gayi hai, ab tasveer software rendering se banegi aur waqt ke sath kharab nahi hogi.","Sidebar me neeche wala LIFETIME pill ab clickable hai — click karne par seedha License tab khul jayega."]},{"version":"1.6.14","changes":["Update popup me ab sirf latest version ki changes nahi, tumhare version ke baad ki tamam versions ki updates group-wise nazar ayengi (jaise 1.6.10 se update karo to 1.6.11, 1.6.12, 1.6.13 aur 1.6.14 sab ki changes)."]},{"version":"1.6.13","changes":["App me ab mouse se bhi copy-paste chalega — kisi bhi field me right-click karne par edit menu ayega (Undo, Redo, Cut, Copy, Paste, Delete, Select All). Pehle Electron me default right-click menu hota hi nahi tha, is liye sirf Ctrl+V kaam karta tha."]},{"version":"1.6.12","changes":["App khulte hi update ka popup foran ayega — ghanton (2/4/6/12/24) wale interval check khatam kar diye gaye hain, Settings se wo option bhi hata diya gaya hai. Manual 'Check for updates' wahi rahega.","Library me Upload / Folder / Scan ab khamosh nahi rahenge — kitni files aayi, kitni pehle se maujood thin (duplicates), ya koi error aaya, sab ka saaf message ayega; 0 import par wajah bhi likhi hogi."]},{"version":"1.6.11","changes":["Library Search apni upar wali line me (right side), baqi buttons neeche aik line me — neeli scrollbar line khatam ho gayi hai."]}],"notes":"Naya version v1.6.16 tayyar hai. Installer ab app theme jaisa.","size":128379553,"url":"https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k","version":"1.6.16"}
+{
+  "changes": [
+    "Notifications page par har notification ke sath Delete button aa gaya hai, aur Activity Logs page par bhi har entry ke sath Delete button hai — delete karne se pehle confirm poocha jayega.",
+    "Update download hote waqt ab bar ke neeche poora status nazar ayega — kitne percent ho gaye, kitni MB aa gayi, kul kitni MB hai aur kitni MB baqi hai.",
+    "Installer ab poori tarah app theme me hai — har step (Welcome, License, Directory, Installing, Finish) dark navy rang me safed text ke sath; logo hata diya gaya hai aur Welcome/Finish ka left panel sirf plain dark strip hai."
+  ],
+  "history": [
+    {
+      "version": "1.6.17",
+      "changes": [
+        "Notifications page par har notification ke sath Delete button aa gaya hai, aur Activity Logs page par bhi har entry ke sath Delete button hai — delete karne se pehle confirm poocha jayega.",
+        "Update download hote waqt ab bar ke neeche poora status nazar ayega — kitne percent ho gaye, kitni MB aa gayi, kul kitni MB hai aur kitni MB baqi hai.",
+        "Installer ab poori tarah app theme me hai — har step (Welcome, License, Directory, Installing, Finish) dark navy rang me safed text ke sath; logo hata diya gaya hai aur Welcome/Finish ka left panel sirf plain dark strip hai."
+      ]
+    },
+    {
+      "version": "1.6.16",
+      "changes": [
+        "Installer ab app theme jaisa hai — Welcome/Finish pages par dark navy artwork (gol kon wala card, loop logo), har page ke header me theme patti, install progress page dark, app icon aur MetaBox branding; Windows 11 par installer window ke kon bhi gol honge."
+      ]
+    },
+    {
+      "version": "1.6.15",
+      "changes": [
+        "Logo ke rangin boxes wala masla theek hua — hardware acceleration band kar di gayi hai, ab tasveer software rendering se banegi aur waqt ke sath kharab nahi hogi.",
+        "Sidebar me neeche wala LIFETIME pill ab clickable hai — click karne par seedha License tab khul jayega."
+      ]
+    },
+    {
+      "version": "1.6.14",
+      "changes": [
+        "Update popup me ab sirf latest version ki changes nahi, tumhare version ke baad ki tamam versions ki updates group-wise nazar ayengi (jaise 1.6.10 se update karo to 1.6.11, 1.6.12, 1.6.13 aur 1.6.14 sab ki changes)."
+      ]
+    },
+    {
+      "version": "1.6.13",
+      "changes": [
+        "App me ab mouse se bhi copy-paste chalega — kisi bhi field me right-click karne par edit menu ayega (Undo, Redo, Cut, Copy, Paste, Delete, Select All). Pehle Electron me default right-click menu hota hi nahi tha, is liye sirf Ctrl+V kaam karta tha."
+      ]
+    },
+    {
+      "version": "1.6.12",
+      "changes": [
+        "App khulte hi update ka popup foran ayega — ghanton (2/4/6/12/24) wale interval check khatam kar diye gaye hain, Settings se wo option bhi hata diya gaya hai. Manual 'Check for updates' wahi rahega.",
+        "Library me Upload / Folder / Scan ab khamosh nahi rahenge — kitni files aayi, kitni pehle se maujood thin (duplicates), ya koi error aaya, sab ka saaf message ayega; 0 import par wajah bhi likhi hogi."
+      ]
+    },
+    {
+      "version": "1.6.11",
+      "changes": [
+        "Library Search apni upar wali line me (right side), baqi buttons neeche aik line me — neeli scrollbar line khatam ho gayi hai."
+      ]
+    }
+  ],
+  "notes": "Naya version v1.6.16 tayyar hai. Installer ab app theme jaisa.",
+  "size": 128350730,
+  "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
+  "version": "1.6.17"
+}
