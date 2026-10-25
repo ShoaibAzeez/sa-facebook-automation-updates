@@ -1,9 +1,16 @@
 {
   "changes": [
-    "Update download ab ruk kar wahin se shuru hogi \u2014 download bar par Stop, Resume aur Remove buttons: net slow ho ya bijli jaye, download wahin rukegi aur Resume par wahin se aage chalegi, dobara shuru se nahi.",
-    "Laptop dobara on karne par adhuri download khud wahin se aage shuru ho jayegi (poochhe baghair)."
+    "Library scan aur single video upload ka '11 values for 12 columns' error theek \u2014 video save karne wali database query me 12 columns ke liye sirf 11 jagah thi, is liye har import fail ho raha tha; ab folder ki videos aur single uploads dono library me ayenge.",
+    "Agar aage kabhi koi import fail ho to scan toast pehli ghalti ki wajah bhi dikhayega, khamosh nahi rahega."
   ],
   "history": [
+    {
+      "version": "1.6.29",
+      "changes": [
+        "Library scan aur single video upload ka '11 values for 12 columns' error theek \u2014 video save karne wali database query me 12 columns ke liye sirf 11 jagah thi, is liye har import fail ho raha tha; ab folder ki videos aur single uploads dono library me ayenge.",
+        "Agar aage kabhi koi import fail ho to scan toast pehli ghalti ki wajah bhi dikhayega, khamosh nahi rahega."
+      ]
+    },
     {
       "version": "1.6.28",
       "changes": [
@@ -116,8 +123,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.28 tayyar hai. Resumable update download (Stop/Resume/Remove + power-loss auto-resume).",
-  "size": 128342587,
+  "notes": "Naya version v1.6.29 tayyar hai. Library import error fix (database query) + scan error detail.",
+  "size": 128342734,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.28"
+  "version": "1.6.29"
 }
