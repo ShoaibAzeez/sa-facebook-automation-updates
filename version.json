@@ -1,9 +1,14 @@
 {
   "changes": [
-    "Number ab kahin likha hua nazar nahi ayega \u2014 License aur header par sirf WhatsApp button rahega, chat ka link usi button me hai.",
-    "Startup settings me checkbox ki jagah on/off toggle switches aa gaye hain (Launch at Windows startup, Start minimized to tray)."
+    "License card par hint line wapas \u2014 number ke baghair: 'No key? Get it on WhatsApp \\u2014 tap the button below.' taake customer ko pata chale ke key kahan se leni hai."
   ],
   "history": [
+    {
+      "version": "1.6.27",
+      "changes": [
+        "License card par hint line wapas \u2014 number ke baghair: 'No key? Get it on WhatsApp \\u2014 tap the button below.' taake customer ko pata chale ke key kahan se leni hai."
+      ]
+    },
     {
       "version": "1.6.26",
       "changes": [
@@ -103,8 +108,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.26 tayyar hai. Number privacy + Startup toggles.",
-  "size": 128340130,
+  "notes": "Naya version v1.6.27 tayyar hai. License hint line wapas (number ke baghair).",
+  "size": 128340304,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.26"
+  "version": "1.6.27"
 }
