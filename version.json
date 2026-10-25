@@ -1,59 +1,65 @@
 {
   "changes": [
-    "Notifications: aakhri notification ke neeche divider line khatam — ab list saaf tareeqe se khatam hoti hai aur bottom me gap nazar ata hai."
+    "Library folder scan fix: folder select karne par videos nahi aa rahi thin \u2014 ab scan folder ka rasta sahi tareeqe se pehchanta hai (short/long path farq khatam), aur 0 import par saaf wajah batayega: kitni files mili, kitni pehle se library me thin, ya folder nahi khul raha."
   ],
   "history": [
     {
+      "version": "1.6.24",
+      "changes": [
+        "Library folder scan fix: folder select karne par videos nahi aa rahi thin \u2014 ab scan folder ka rasta sahi tareeqe se pehchanta hai (short/long path farq khatam), aur 0 import par saaf wajah batayega: kitni files mili, kitni pehle se library me thin, ya folder nahi khul raha."
+      ]
+    },
+    {
       "version": "1.6.23",
       "changes": [
-        "Notifications: aakhri notification ke neeche divider line khatam — ab list saaf tareeqe se khatam hoti hai aur bottom me gap nazar ata hai."
+        "Notifications: aakhri notification ke neeche divider line khatam \u2014 ab list saaf tareeqe se khatam hoti hai aur bottom me gap nazar ata hai."
       ]
     },
     {
       "version": "1.6.21",
       "changes": [
-        "Installer wapas standard (default) look par — NSIS ke dialogs me tool jaisa glass UI possible nahi (wo Chromium ka blur/translucency hai, Win32 dialogs me nahi hota), is liye tamam custom theme hata kar clean default installer rakha gaya hai."
+        "Installer wapas standard (default) look par \u2014 NSIS ke dialogs me tool jaisa glass UI possible nahi (wo Chromium ka blur/translucency hai, Win32 dialogs me nahi hota), is liye tamam custom theme hata kar clean default installer rakha gaya hai."
       ]
     },
     {
       "version": "1.6.20",
       "changes": [
-        "Installer ab poora dark hai — koi cheez white nahi: buttons bhi dark (Next/Install neela, Back/Cancel dark panel), License box dark (safed text), progress bar neeli bar + dark track, aur uninstaller ke pages bhi isi theme me.",
-        "Notifications + Activity Logs: har row wala checkbox hata diya (wohi design kharab kar raha tha) — ab sirf toolbar me aik chhota Select All checkbox hai, tick karne par sari rows select hoti hain, phir Delete Selected."
+        "Installer ab poora dark hai \u2014 koi cheez white nahi: buttons bhi dark (Next/Install neela, Back/Cancel dark panel), License box dark (safed text), progress bar neeli bar + dark track, aur uninstaller ke pages bhi isi theme me.",
+        "Notifications + Activity Logs: har row wala checkbox hata diya (wohi design kharab kar raha tha) \u2014 ab sirf toolbar me aik chhota Select All checkbox hai, tick karne par sari rows select hoti hain, phir Delete Selected."
       ]
     },
     {
       "version": "1.6.19",
       "changes": [
-        "Download bar ab real-time hai — pehle progress har 5% par update hoti thi (122 MB file par ~6 MB ke jumps), ab har 200ms par MB ginta hua nazar ayega aur sath live speed bhi (jaise 2.4 MB/s)."
+        "Download bar ab real-time hai \u2014 pehle progress har 5% par update hoti thi (122 MB file par ~6 MB ke jumps), ab har 200ms par MB ginta hua nazar ayega aur sath live speed bhi (jaise 2.4 MB/s)."
       ]
     },
     {
       "version": "1.6.18",
       "changes": [
-        "Installer theme repair: Installing page par text ka overlap/ghich-pich khatam — har label ka background ab solid dark hai, taake update hone wala status text har dafa saaf chhape; License ka text box bhi dark karne ki koshish ki gayi hai.",
-        "Notifications aur Activity Logs me ab bulk delete hai — har row par checkbox, upar Select All, phir Delete Selected se aik sath sab delete karein (confirm ke baad)."
+        "Installer theme repair: Installing page par text ka overlap/ghich-pich khatam \u2014 har label ka background ab solid dark hai, taake update hone wala status text har dafa saaf chhape; License ka text box bhi dark karne ki koshish ki gayi hai.",
+        "Notifications aur Activity Logs me ab bulk delete hai \u2014 har row par checkbox, upar Select All, phir Delete Selected se aik sath sab delete karein (confirm ke baad)."
       ]
     },
     {
       "version": "1.6.17",
       "changes": [
-        "Notifications page par har notification ke sath Delete button aa gaya hai, aur Activity Logs page par bhi har entry ke sath Delete button hai — delete karne se pehle confirm poocha jayega.",
-        "Update download hote waqt ab bar ke neeche poora status nazar ayega — kitne percent ho gaye, kitni MB aa gayi, kul kitni MB hai aur kitni MB baqi hai.",
-        "Installer ab poori tarah app theme me hai — har step (Welcome, License, Directory, Installing, Finish) dark navy rang me safed text ke sath; logo hata diya gaya hai aur Welcome/Finish ka left panel sirf plain dark strip hai."
+        "Notifications page par har notification ke sath Delete button aa gaya hai, aur Activity Logs page par bhi har entry ke sath Delete button hai \u2014 delete karne se pehle confirm poocha jayega.",
+        "Update download hote waqt ab bar ke neeche poora status nazar ayega \u2014 kitne percent ho gaye, kitni MB aa gayi, kul kitni MB hai aur kitni MB baqi hai.",
+        "Installer ab poori tarah app theme me hai \u2014 har step (Welcome, License, Directory, Installing, Finish) dark navy rang me safed text ke sath; logo hata diya gaya hai aur Welcome/Finish ka left panel sirf plain dark strip hai."
       ]
     },
     {
       "version": "1.6.16",
       "changes": [
-        "Installer ab app theme jaisa hai — Welcome/Finish pages par dark navy artwork (gol kon wala card, loop logo), har page ke header me theme patti, install progress page dark, app icon aur MetaBox branding; Windows 11 par installer window ke kon bhi gol honge."
+        "Installer ab app theme jaisa hai \u2014 Welcome/Finish pages par dark navy artwork (gol kon wala card, loop logo), har page ke header me theme patti, install progress page dark, app icon aur MetaBox branding; Windows 11 par installer window ke kon bhi gol honge."
       ]
     },
     {
       "version": "1.6.15",
       "changes": [
-        "Logo ke rangin boxes wala masla theek hua — hardware acceleration band kar di gayi hai, ab tasveer software rendering se banegi aur waqt ke sath kharab nahi hogi.",
-        "Sidebar me neeche wala LIFETIME pill ab clickable hai — click karne par seedha License tab khul jayega."
+        "Logo ke rangin boxes wala masla theek hua \u2014 hardware acceleration band kar di gayi hai, ab tasveer software rendering se banegi aur waqt ke sath kharab nahi hogi.",
+        "Sidebar me neeche wala LIFETIME pill ab clickable hai \u2014 click karne par seedha License tab khul jayega."
       ]
     },
     {
@@ -65,25 +71,25 @@
     {
       "version": "1.6.13",
       "changes": [
-        "App me ab mouse se bhi copy-paste chalega — kisi bhi field me right-click karne par edit menu ayega (Undo, Redo, Cut, Copy, Paste, Delete, Select All). Pehle Electron me default right-click menu hota hi nahi tha, is liye sirf Ctrl+V kaam karta tha."
+        "App me ab mouse se bhi copy-paste chalega \u2014 kisi bhi field me right-click karne par edit menu ayega (Undo, Redo, Cut, Copy, Paste, Delete, Select All). Pehle Electron me default right-click menu hota hi nahi tha, is liye sirf Ctrl+V kaam karta tha."
       ]
     },
     {
       "version": "1.6.12",
       "changes": [
-        "App khulte hi update ka popup foran ayega — ghanton (2/4/6/12/24) wale interval check khatam kar diye gaye hain, Settings se wo option bhi hata diya gaya hai. Manual 'Check for updates' wahi rahega.",
-        "Library me Upload / Folder / Scan ab khamosh nahi rahenge — kitni files aayi, kitni pehle se maujood thin (duplicates), ya koi error aaya, sab ka saaf message ayega; 0 import par wajah bhi likhi hogi."
+        "App khulte hi update ka popup foran ayega \u2014 ghanton (2/4/6/12/24) wale interval check khatam kar diye gaye hain, Settings se wo option bhi hata diya gaya hai. Manual 'Check for updates' wahi rahega.",
+        "Library me Upload / Folder / Scan ab khamosh nahi rahenge \u2014 kitni files aayi, kitni pehle se maujood thin (duplicates), ya koi error aaya, sab ka saaf message ayega; 0 import par wajah bhi likhi hogi."
       ]
     },
     {
       "version": "1.6.11",
       "changes": [
-        "Library Search apni upar wali line me (right side), baqi buttons neeche aik line me — neeli scrollbar line khatam ho gayi hai."
+        "Library Search apni upar wali line me (right side), baqi buttons neeche aik line me \u2014 neeli scrollbar line khatam ho gayi hai."
       ]
     }
   ],
-  "notes": "Naya version v1.6.16 tayyar hai. Installer ab app theme jaisa.",
-  "size": 128338592,
+  "notes": "Naya version v1.6.24 tayyar hai. Library folder scan fix.",
+  "size": 128339713,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.23"
+  "version": "1.6.24"
 }
