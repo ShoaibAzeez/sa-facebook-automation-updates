@@ -1,9 +1,16 @@
 {
   "changes": [
-    "Analytics me ab YouTube Studio jaisa day-wise line chart aa gaya hai \u2014 channel ya aik video chuno, aakhri 28 din ke rozana views graph par nazar ayenge (YouTube Analytics API se).",
-    "Add to queue me ab baghair target tick kiye Add dabane par khamosh '0 added' nahi ayega \u2014 warning ayegi aur modal khula rahega taake tick laga kar dobara daba sako."
+    "Scheduling me ab rozana videos ki tadaad chun sakte ho (1, 2 ya 3 per day) \u2014 Queue page par Generate Schedule ke sath dropdown; pehle YouTube par sirf 2/day hardcode tha. Choice mehfooz ho jati hai.",
+    "Library me 'Sab select karo' button aa gaya hai \u2014 folder ka page filter lagao, aik click me us ki sari videos select, phir Add to queue."
   ],
   "history": [
+    {
+      "version": "1.6.33",
+      "changes": [
+        "Scheduling me ab rozana videos ki tadaad chun sakte ho (1, 2 ya 3 per day) \u2014 Queue page par Generate Schedule ke sath dropdown; pehle YouTube par sirf 2/day hardcode tha. Choice mehfooz ho jati hai.",
+        "Library me 'Sab select karo' button aa gaya hai \u2014 folder ka page filter lagao, aik click me us ki sari videos select, phir Add to queue."
+      ]
+    },
     {
       "version": "1.6.32",
       "changes": [
@@ -144,8 +151,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.32 tayyar hai. Day-wise YouTube chart + queue target warning.",
-  "size": 128347496,
+  "notes": "Naya version v1.6.33 tayyar hai. Per-day scheduling (1/2/3) + Library Select All.",
+  "size": 128348423,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.32"
+  "version": "1.6.33"
 }
