@@ -1,9 +1,14 @@
 {
   "changes": [
-    "Library scan aur single video upload ka '11 values for 12 columns' error theek \u2014 video save karne wali database query me 12 columns ke liye sirf 11 jagah thi, is liye har import fail ho raha tha; ab folder ki videos aur single uploads dono library me ayenge.",
-    "Agar aage kabhi koi import fail ho to scan toast pehli ghalti ki wajah bhi dikhayega, khamosh nahi rahega."
+    "App khula ho to bhi nayi release ka popup khud aa jayega \u2014 ab har 30 minute par background me update check hota hai, restart ya manual check ka intezar nahi. Later dabane par usi version ka popup us session me dobara nahi ayega."
   ],
   "history": [
+    {
+      "version": "1.6.30",
+      "changes": [
+        "App khula ho to bhi nayi release ka popup khud aa jayega \u2014 ab har 30 minute par background me update check hota hai, restart ya manual check ka intezar nahi. Later dabane par usi version ka popup us session me dobara nahi ayega."
+      ]
+    },
     {
       "version": "1.6.29",
       "changes": [
@@ -123,8 +128,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.29 tayyar hai. Library import error fix (database query) + scan error detail.",
-  "size": 128342734,
+  "notes": "Naya version v1.6.30 tayyar hai. Khule hue app me automatic update popup (har 30 minute check).",
+  "size": 128343177,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.29"
+  "version": "1.6.30"
 }
