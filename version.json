@@ -1,8 +1,16 @@
 {
   "changes": [
-    "Library folder scan fix: folder select karne par videos nahi aa rahi thin \u2014 ab scan folder ka rasta sahi tareeqe se pehchanta hai (short/long path farq khatam), aur 0 import par saaf wajah batayega: kitni files mili, kitni pehle se library me thin, ya folder nahi khul raha."
+    "Library ab har video format pehchanti hai \u2014 mp4 ke ilawa wmv, flv, 3gp, mpg, mpeg, m2ts, vob, rm, asf, ogv, mxf waghera sab scan aur upload me nazar ayengi.",
+    "Update dobara click hone par dobara download nahi hoga, aur har download alag temp file me hogi taake file-lock error dobara na aaye."
   ],
   "history": [
+    {
+      "version": "1.6.25",
+      "changes": [
+        "Library ab har video format pehchanti hai \u2014 mp4 ke ilawa wmv, flv, 3gp, mpg, mpeg, m2ts, vob, rm, asf, ogv, mxf waghera sab scan aur upload me nazar ayengi.",
+        "Update dobara click hone par dobara download nahi hoga, aur har download alag temp file me hogi taake file-lock error dobara na aaye."
+      ]
+    },
     {
       "version": "1.6.24",
       "changes": [
@@ -88,8 +96,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.24 tayyar hai. Library folder scan fix.",
-  "size": 128339713,
+  "notes": "Naya version v1.6.25 tayyar hai. Sab video formats + update file-lock fix.",
+  "size": 128339940,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.24"
+  "version": "1.6.25"
 }
