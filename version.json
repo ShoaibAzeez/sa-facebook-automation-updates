@@ -1,9 +1,16 @@
 {
   "changes": [
-    "Library ab har video format pehchanti hai \u2014 mp4 ke ilawa wmv, flv, 3gp, mpg, mpeg, m2ts, vob, rm, asf, ogv, mxf waghera sab scan aur upload me nazar ayengi.",
-    "Update dobara click hone par dobara download nahi hoga, aur har download alag temp file me hogi taake file-lock error dobara na aaye."
+    "Number ab kahin likha hua nazar nahi ayega \u2014 License aur header par sirf WhatsApp button rahega, chat ka link usi button me hai.",
+    "Startup settings me checkbox ki jagah on/off toggle switches aa gaye hain (Launch at Windows startup, Start minimized to tray)."
   ],
   "history": [
+    {
+      "version": "1.6.26",
+      "changes": [
+        "Number ab kahin likha hua nazar nahi ayega \u2014 License aur header par sirf WhatsApp button rahega, chat ka link usi button me hai.",
+        "Startup settings me checkbox ki jagah on/off toggle switches aa gaye hain (Launch at Windows startup, Start minimized to tray)."
+      ]
+    },
     {
       "version": "1.6.25",
       "changes": [
@@ -96,8 +103,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.25 tayyar hai. Sab video formats + update file-lock fix.",
-  "size": 128339940,
+  "notes": "Naya version v1.6.26 tayyar hai. Number privacy + Startup toggles.",
+  "size": 128340130,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.25"
+  "version": "1.6.26"
 }
