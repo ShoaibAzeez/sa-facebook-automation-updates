@@ -1,10 +1,16 @@
 {
   "changes": [
-    "Media Library ka toolbar ab scroll par upar hi khara rahega (sticky) \u2014 neeche video select karke Add to queue ke liye wapas upar nahi jana parega.",
-    "Analytics me YouTube channel insights bhi aa gaya hai (Pages jaisa) \u2014 channel chuno, Load dabao: subscribers, total views, total videos aur views ke hisaab se top videos nazar ayenge.",
-    "Add to queue modal me ab aik video select ho to us ka title aur hashtags pehle se bhare hue ayenge; kai videos hon to note batayega ke khaali chhorne par har video ka apna title/hashtags khud lag jayenge."
+    "Analytics me ab YouTube Studio jaisa day-wise line chart aa gaya hai \u2014 channel ya aik video chuno, aakhri 28 din ke rozana views graph par nazar ayenge (YouTube Analytics API se).",
+    "Add to queue me ab baghair target tick kiye Add dabane par khamosh '0 added' nahi ayega \u2014 warning ayegi aur modal khula rahega taake tick laga kar dobara daba sako."
   ],
   "history": [
+    {
+      "version": "1.6.32",
+      "changes": [
+        "Analytics me ab YouTube Studio jaisa day-wise line chart aa gaya hai \u2014 channel ya aik video chuno, aakhri 28 din ke rozana views graph par nazar ayenge (YouTube Analytics API se).",
+        "Add to queue me ab baghair target tick kiye Add dabane par khamosh '0 added' nahi ayega \u2014 warning ayegi aur modal khula rahega taake tick laga kar dobara daba sako."
+      ]
+    },
     {
       "version": "1.6.31",
       "changes": [
@@ -138,8 +144,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.31 tayyar hai. Sticky library toolbar + YouTube analytics + queue modal auto-title.",
-  "size": 128345150,
+  "notes": "Naya version v1.6.32 tayyar hai. Day-wise YouTube chart + queue target warning.",
+  "size": 128347496,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.31"
+  "version": "1.6.32"
 }
