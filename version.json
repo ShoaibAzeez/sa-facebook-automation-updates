@@ -1,8 +1,16 @@
 {
   "changes": [
-    "Analytics ab modern MetaBox style me: dots wale charts khatam \u2014 smooth gradient area charts, #1 video par gold highlight aur VIP look; publishing + YouTube insights + top videos + next events sab Dashboard par aik hi jagah, page badalne ki zaroorat nahi (Analytics page par bhi wahi unified section)."
+    "Installer ke agreement page par ab checkmark hai \u2014 tick kiye baghair Next aage nahi jayega.",
+    "Alignment fix: Queue page ka Time box chaura (AM/PM ab andar nahi ghusega) aur Time mode dropdown chaura ('Same time daily' poora nazar ayega); page par horizontal safety net taake koi table/button kinare se cut na ho."
   ],
   "history": [
+    {
+      "version": "1.6.40",
+      "changes": [
+        "Installer ke agreement page par ab checkmark hai \u2014 tick kiye baghair Next aage nahi jayega.",
+        "Alignment fix: Queue page ka Time box chaura (AM/PM ab andar nahi ghusega) aur Time mode dropdown chaura ('Same time daily' poora nazar ayega); page par horizontal safety net taake koi table/button kinare se cut na ho."
+      ]
+    },
     {
       "version": "1.6.39",
       "changes": [
@@ -187,8 +195,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.39 tayyar hai. Modern analytics redesign.",
-  "size": 128352874,
+  "notes": "Naya version v1.6.40 tayyar hai. Installer checkbox + alignment fix.",
+  "size": 128352896,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.39"
+  "version": "1.6.40"
 }
