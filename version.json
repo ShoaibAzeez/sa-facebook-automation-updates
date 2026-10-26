@@ -1,8 +1,14 @@
 {
   "changes": [
-    "Queue page ka Time box ab hamesha editable hai \u2014 Spread mode me wo lock ho jata tha, is liye apna time adjust nahi hota tha. Ab koi bhi time chuno (4, 5, 6, 7, 8 baje ya koi bhi minute) to mode khud 'Same time daily' ho jayega aur wahi time laagu hoga."
+    "Analytics ab modern MetaBox style me: dots wale charts khatam \u2014 smooth gradient area charts, #1 video par gold highlight aur VIP look; publishing + YouTube insights + top videos + next events sab Dashboard par aik hi jagah, page badalne ki zaroorat nahi (Analytics page par bhi wahi unified section)."
   ],
   "history": [
+    {
+      "version": "1.6.39",
+      "changes": [
+        "Analytics ab modern MetaBox style me: dots wale charts khatam \u2014 smooth gradient area charts, #1 video par gold highlight aur VIP look; publishing + YouTube insights + top videos + next events sab Dashboard par aik hi jagah, page badalne ki zaroorat nahi (Analytics page par bhi wahi unified section)."
+      ]
+    },
     {
       "version": "1.6.38",
       "changes": [
@@ -181,8 +187,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.38 tayyar hai. Custom time fix.",
-  "size": 128351794,
+  "notes": "Naya version v1.6.39 tayyar hai. Modern analytics redesign.",
+  "size": 128352874,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.38"
+  "version": "1.6.39"
 }
