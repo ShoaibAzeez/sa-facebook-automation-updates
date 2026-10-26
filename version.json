@@ -1,8 +1,14 @@
 {
   "changes": [
-    "Tamam times ab 12-hour AM/PM format me nazar ayenge (masalan 5:00 PM) \u2014 Scheduler, Dashboard aur logs me 24-hour format khatam; time select karne wali jagah par bhi AM/PM saaf likha nazar ayega."
+    "Library se delete ab waqai delete karega: queue ya schedule me lagi videos pehle delete nahi ho rahi thin (database ka rule rok deta tha, khamosh fail) \u2014 ab un ki queue/scheduler entries sath hatengi; aur watch-folder ki videos dobara scan me wapas nahi ayengi (delete ki hui files blocklist me jati hain)."
   ],
   "history": [
+    {
+      "version": "1.6.36",
+      "changes": [
+        "Library se delete ab waqai delete karega: queue ya schedule me lagi videos pehle delete nahi ho rahi thin (database ka rule rok deta tha, khamosh fail) \u2014 ab un ki queue/scheduler entries sath hatengi; aur watch-folder ki videos dobara scan me wapas nahi ayengi (delete ki hui files blocklist me jati hain)."
+      ]
+    },
     {
       "version": "1.6.35",
       "changes": [
@@ -163,8 +169,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.35 tayyar hai. 12-hour AM/PM time display.",
-  "size": 128350671,
+  "notes": "Naya version v1.6.36 tayyar hai. Library delete fix.",
+  "size": 128351667,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.35"
+  "version": "1.6.36"
 }
