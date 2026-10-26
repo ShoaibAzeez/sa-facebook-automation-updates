@@ -1,9 +1,14 @@
 {
   "changes": [
-    "Scheduler page par ab jobs ko select karke Cancel ya Delete kar sakte ho \u2014 header checkbox se sab select, phir 'Cancel selected' ya 'Delete selected'; delete ki hui jobs list se poori tarah hat jati hain aur un ki videos wapas queue me aa jati hain.",
-    "Scheduling me naya 'Same time daily' mode \u2014 Queue page par time chuno (masalan 17:00) to us din ki tamam videos usi aik waqt par schedule hongi, rozana wahi waqt; purana 'Spread times' mode bhi maujood hai."
+    "Tamam times ab 12-hour AM/PM format me nazar ayenge (masalan 5:00 PM) \u2014 Scheduler, Dashboard aur logs me 24-hour format khatam; time select karne wali jagah par bhi AM/PM saaf likha nazar ayega."
   ],
   "history": [
+    {
+      "version": "1.6.35",
+      "changes": [
+        "Tamam times ab 12-hour AM/PM format me nazar ayenge (masalan 5:00 PM) \u2014 Scheduler, Dashboard aur logs me 24-hour format khatam; time select karne wali jagah par bhi AM/PM saaf likha nazar ayega."
+      ]
+    },
     {
       "version": "1.6.34",
       "changes": [
@@ -158,8 +163,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.34 tayyar hai. Bulk cancel/delete + same-time daily scheduling.",
-  "size": 128350365,
+  "notes": "Naya version v1.6.35 tayyar hai. 12-hour AM/PM time display.",
+  "size": 128350671,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.34"
+  "version": "1.6.35"
 }
