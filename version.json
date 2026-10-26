@@ -1,9 +1,16 @@
 {
   "changes": [
-    "Scheduling me ab rozana videos ki tadaad chun sakte ho (1, 2 ya 3 per day) \u2014 Queue page par Generate Schedule ke sath dropdown; pehle YouTube par sirf 2/day hardcode tha. Choice mehfooz ho jati hai.",
-    "Library me 'Sab select karo' button aa gaya hai \u2014 folder ka page filter lagao, aik click me us ki sari videos select, phir Add to queue."
+    "Scheduler page par ab jobs ko select karke Cancel ya Delete kar sakte ho \u2014 header checkbox se sab select, phir 'Cancel selected' ya 'Delete selected'; delete ki hui jobs list se poori tarah hat jati hain aur un ki videos wapas queue me aa jati hain.",
+    "Scheduling me naya 'Same time daily' mode \u2014 Queue page par time chuno (masalan 17:00) to us din ki tamam videos usi aik waqt par schedule hongi, rozana wahi waqt; purana 'Spread times' mode bhi maujood hai."
   ],
   "history": [
+    {
+      "version": "1.6.34",
+      "changes": [
+        "Scheduler page par ab jobs ko select karke Cancel ya Delete kar sakte ho \u2014 header checkbox se sab select, phir 'Cancel selected' ya 'Delete selected'; delete ki hui jobs list se poori tarah hat jati hain aur un ki videos wapas queue me aa jati hain.",
+        "Scheduling me naya 'Same time daily' mode \u2014 Queue page par time chuno (masalan 17:00) to us din ki tamam videos usi aik waqt par schedule hongi, rozana wahi waqt; purana 'Spread times' mode bhi maujood hai."
+      ]
+    },
     {
       "version": "1.6.33",
       "changes": [
@@ -151,8 +158,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.33 tayyar hai. Per-day scheduling (1/2/3) + Library Select All.",
-  "size": 128348423,
+  "notes": "Naya version v1.6.34 tayyar hai. Bulk cancel/delete + same-time daily scheduling.",
+  "size": 128350365,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.33"
+  "version": "1.6.34"
 }
