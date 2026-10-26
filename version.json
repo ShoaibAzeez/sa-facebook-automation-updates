@@ -1,9 +1,14 @@
 {
   "changes": [
-    "Installer ke agreement page par ab checkmark hai \u2014 tick kiye baghair Next aage nahi jayega.",
-    "Alignment fix: Queue page ka Time box chaura (AM/PM ab andar nahi ghusega) aur Time mode dropdown chaura ('Same time daily' poora nazar ayega); page par horizontal safety net taake koi table/button kinare se cut na ho."
+    "Dashboard analytics par upar ab do buttons hain \u2014 Pages aur YouTube: Pages par sirf Pages/publishing analytics, YouTube par sirf YouTube analytics (pasand save rehti hai)."
   ],
   "history": [
+    {
+      "version": "1.6.41",
+      "changes": [
+        "Dashboard analytics par upar ab do buttons hain \u2014 Pages aur YouTube: Pages par sirf Pages/publishing analytics, YouTube par sirf YouTube analytics (pasand save rehti hai)."
+      ]
+    },
     {
       "version": "1.6.40",
       "changes": [
@@ -195,8 +200,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.40 tayyar hai. Installer checkbox + alignment fix.",
-  "size": 128352896,
+  "notes": "Naya version v1.6.41 tayyar hai. Dashboard analytics tabs.",
+  "size": 128353455,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.40"
+  "version": "1.6.41"
 }
