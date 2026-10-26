@@ -1,8 +1,14 @@
 {
   "changes": [
-    "Footer clock (IP + location + time wali pati) ab 12-hour AM/PM me chalegi \u2014 pehle us me 24-hour zabardasti set tha, is liye pichle version me wo nahi badli thi; ab wahi asal jagah theek hui hai."
+    "Queue page ka Time box ab hamesha editable hai \u2014 Spread mode me wo lock ho jata tha, is liye apna time adjust nahi hota tha. Ab koi bhi time chuno (4, 5, 6, 7, 8 baje ya koi bhi minute) to mode khud 'Same time daily' ho jayega aur wahi time laagu hoga."
   ],
   "history": [
+    {
+      "version": "1.6.38",
+      "changes": [
+        "Queue page ka Time box ab hamesha editable hai \u2014 Spread mode me wo lock ho jata tha, is liye apna time adjust nahi hota tha. Ab koi bhi time chuno (4, 5, 6, 7, 8 baje ya koi bhi minute) to mode khud 'Same time daily' ho jayega aur wahi time laagu hoga."
+      ]
+    },
     {
       "version": "1.6.37",
       "changes": [
@@ -175,8 +181,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.37 tayyar hai. Footer clock AM/PM.",
-  "size": 128351668,
+  "notes": "Naya version v1.6.38 tayyar hai. Custom time fix.",
+  "size": 128351794,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.37"
+  "version": "1.6.38"
 }
