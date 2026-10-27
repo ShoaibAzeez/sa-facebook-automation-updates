@@ -4,6 +4,14 @@
   ],
   "history": [
     {
+      "version": "1.6.53",
+      "changes": [
+        "Published folder: publish hone par video ki asal file us ke PC folder ke andar Published subfolder me (vault copy ko haath nahi), scan Published ko dobara import nahi karega",
+        "Low-content reminder: folder me 4 ya 2 videos reh jayen to Windows notification (aur content add karo)",
+        "Welcome celebration: license activation par full-screen confetti + stickers + Welcome to MetaBox + sound (Settings me on/off)"
+      ]
+    },
+    {
       "version": "1.6.52",
       "changes": [
         "Scheduler me PUBLISHED YouTube jobs par Make Public button: upload hui hui private video aik click me public (dobara upload nahi, sirf privacy update)"
@@ -272,7 +280,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128360687,
+  "size": 128364517,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.52"
+  "version": "1.6.53"
 }
