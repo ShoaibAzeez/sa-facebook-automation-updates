@@ -8,6 +8,14 @@
   ],
   "history": [
     {
+      "version": "1.6.57",
+      "changes": [
+        "Celebration: balloons ki jagah Canva-style chhoti rang-birangi pattiyan (neeche se upar, phir wapas neeche) + blur backdrop + halka welcome card",
+        "License page: lagi hui key + Copy button ab input box ke neeche aik row me",
+        "Light mode naram (dark mode unchanged)"
+      ]
+    },
+    {
       "version": "1.6.56",
       "changes": [
         "Uninstall ke baad dobara install par license dobara mangi jayegi — baghair key ke active nahi hogi (library/schedules mehfooz rahenge)",
@@ -307,7 +315,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128367595,
+  "size": 128367637,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.56"
+  "version": "1.6.57"
 }
