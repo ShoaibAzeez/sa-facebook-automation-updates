@@ -1,10 +1,14 @@
 {
   "changes": [
-    "Auto update popup fix: app kholte hi update popup ab zaroor ayega (pehle page load hone se pehle message zaya ho jata tha)",
-    "Khula app ab har 5 minute me update check karega (pehle 30 minute tha)",
-    "Zaya hua popup ab \"Later\" nahi samjha jayega — agla check dobara offer karega"
+    "Google connect success page ab poori English me (pehle aadha Urdu tha) — verification video aur customers ke liye consistent"
   ],
   "history": [
+    {
+      "version": "1.6.44",
+      "changes": [
+        "Google connect success page ab poori English me (pehle aadha Urdu tha) — verification video aur customers ke liye consistent"
+      ]
+    },
     {
       "version": "1.6.43",
       "changes": [
@@ -217,7 +221,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128354341,
+  "size": 128354354,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.43"
+  "version": "1.6.44"
 }
