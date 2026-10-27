@@ -4,6 +4,12 @@
   ],
   "history": [
     {
+      "version": "1.6.54",
+      "changes": [
+        "Low-content reminder ab Settings me configurable: low content threshold field (default 4, 0 = band) — customer khud number rakh sakta hai"
+      ]
+    },
+    {
       "version": "1.6.53",
       "changes": [
         "Published folder: publish hone par video ki asal file us ke PC folder ke andar Published subfolder me (vault copy ko haath nahi), scan Published ko dobara import nahi karega",
@@ -280,7 +286,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128364517,
+  "size": 128364818,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.53"
+  "version": "1.6.54"
 }
