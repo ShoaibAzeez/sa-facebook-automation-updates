@@ -1,8 +1,14 @@
 {
   "changes": [
-    "Dashboard analytics par upar ab do buttons hain \u2014 Pages aur YouTube: Pages par sirf Pages/publishing analytics, YouTube par sirf YouTube analytics (pasand save rehti hai)."
+    "Audit fixes: (1) din filter wali scheduling ab sahi din par slot banayegi (timezone bug fix); (2) YouTube jobs par bhi FB jaisa retry + attempt count (aarzi ghalti par job foran FAILED nahi hogi); (3) YouTube Generate bhi 500 videos tak mehdood (Pages jaisa); (4) ghalat timezone save nahi hoga."
   ],
   "history": [
+    {
+      "version": "1.6.42",
+      "changes": [
+        "Audit fixes: (1) din filter wali scheduling ab sahi din par slot banayegi (timezone bug fix); (2) YouTube jobs par bhi FB jaisa retry + attempt count (aarzi ghalti par job foran FAILED nahi hogi); (3) YouTube Generate bhi 500 videos tak mehdood (Pages jaisa); (4) ghalat timezone save nahi hoga."
+      ]
+    },
     {
       "version": "1.6.41",
       "changes": [
@@ -200,8 +206,8 @@
       ]
     }
   ],
-  "notes": "Naya version v1.6.41 tayyar hai. Dashboard analytics tabs.",
-  "size": 128353455,
+  "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
+  "size": 128353738,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.41"
+  "version": "1.6.42"
 }
