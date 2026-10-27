@@ -1,9 +1,14 @@
 {
   "changes": [
-    "Naya alag YouTube Analytics page (sidebar): TOTAL + har channel + Overview/Audience/Content tabs",
-    "Total subs/views/videos/watch time + 28-din growth chart; Audience me country/age/gender; Content me saare channels ke top videos"
+    "About page me tafseeli paragraph: tool kya hai, Facebook + YouTube par kya-kya kar sakta hai (5 zabano me)"
   ],
   "history": [
+    {
+      "version": "1.6.51",
+      "changes": [
+        "About page me tafseeli paragraph: tool kya hai, Facebook + YouTube par kya-kya kar sakta hai (5 zabano me)"
+      ]
+    },
     {
       "version": "1.6.50",
       "changes": [
@@ -261,7 +266,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128359012,
+  "size": 128360135,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.50"
+  "version": "1.6.51"
 }
