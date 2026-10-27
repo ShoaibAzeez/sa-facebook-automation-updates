@@ -4,6 +4,13 @@
   ],
   "history": [
     {
+      "version": "1.6.55",
+      "changes": [
+        "License page par lagi hui key hamesha show hogi + Copy button (dobara key mangne ki zaroorat nahi)",
+        "Update safai: app khulte hi purani downloaded installer files khud delete (pending download mehfooz)"
+      ]
+    },
+    {
       "version": "1.6.54",
       "changes": [
         "Low-content reminder ab Settings me configurable: low content threshold field (default 4, 0 = band) — customer khud number rakh sakta hai"
@@ -286,7 +293,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128364818,
+  "size": 128365537,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.54"
+  "version": "1.6.55"
 }
