@@ -1,8 +1,14 @@
 {
   "changes": [
-    "Google connect success page ab poori English me (pehle aadha Urdu tha) — verification video aur customers ke liye consistent"
+    "Scheduled jobs table me waqt ke sath timezone bhi dikhega (jese CDT) — reschedule modal wale Karachi waqt se farq foran nazar ayega"
   ],
   "history": [
+    {
+      "version": "1.6.45",
+      "changes": [
+        "Scheduled jobs table me waqt ke sath timezone bhi dikhega (jese CDT) — reschedule modal wale Karachi waqt se farq foran nazar ayega"
+      ]
+    },
     {
       "version": "1.6.44",
       "changes": [
@@ -221,7 +227,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128354354,
+  "size": 128354545,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.44"
+  "version": "1.6.45"
 }
