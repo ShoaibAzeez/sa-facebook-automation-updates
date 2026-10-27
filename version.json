@@ -1,9 +1,14 @@
 {
   "changes": [
-    "YouTube overview ab khud load hota hai (Load ki zaroorat nahi) aur har 30 minute me khud taaza hota hai, bina timer dikhaye",
-    "Upload mukammal hote hi dashboard/analytics par overview foran refresh"
+    "YouTube All-channels overview aur auto-refresh hata diya gaya — YouTube tab/Analytics pehle jaisa (aik channel select + Load wali detail)"
   ],
   "history": [
+    {
+      "version": "1.6.49",
+      "changes": [
+        "YouTube All-channels overview aur auto-refresh hata diya gaya — YouTube tab/Analytics pehle jaisa (aik channel select + Load wali detail)"
+      ]
+    },
     {
       "version": "1.6.48",
       "changes": [
@@ -248,7 +253,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128355733,
+  "size": 128354547,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.48"
+  "version": "1.6.49"
 }
