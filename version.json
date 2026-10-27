@@ -1,8 +1,16 @@
 {
   "changes": [
-    "Dashboard analytics tabs (Pages/YouTube) thode patle aur saaf pill shape me — pehle mote oval lagte the"
+    "Dashboard tabs ke kone ab sirf mamooli se gol (pill khatam) — pehli dafa ulta samajh liya tha",
+    "YouTube tab me All channels overview: Load all channels par saare channels ke total subs/views/videos + har channel ki alag line + har channel ki detail ka button"
   ],
   "history": [
+    {
+      "version": "1.6.47",
+      "changes": [
+        "Dashboard tabs ke kone ab sirf mamooli se gol (pill khatam) — pehli dafa ulta samajh liya tha",
+        "YouTube tab me All channels overview: Load all channels par saare channels ke total subs/views/videos + har channel ki alag line + har channel ki detail ka button"
+      ]
+    },
     {
       "version": "1.6.46",
       "changes": [
@@ -233,7 +241,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128354546,
+  "size": 128355388,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.46"
+  "version": "1.6.47"
 }
