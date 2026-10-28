@@ -1,16 +1,22 @@
 {
   "changes": [
-    "Uninstall ke baad dobara install par license dobara mangi jayegi — baghair key ke active nahi hogi (library/schedules mehfooz rahenge)",
-    "Install ke baad app khulte hi license key ka pop-up — key wahin daal kar activate karo, License page dhoondna nahi parega",
+    "Uninstall ke baad dobara install par license dobara mangi jayegi \u2014 baghair key ke active nahi hogi (library/schedules mehfooz rahenge)",
+    "Install ke baad app khulte hi license key ka pop-up \u2014 key wahin daal kar activate karo, License page dhoondna nahi parega",
     "License key ab Enter License Key card ke neeche show hogi + Copy button (Your License card phir chhota)",
-    "YouTube tab, Dashboard aur Analytics ab foran khulenge — 3-second server wait khatam (server refresh background me)",
+    "YouTube tab, Dashboard aur Analytics ab foran khulenge \u2014 3-second server wait khatam (server refresh background me)",
     "Activation celebration naya: left-right se gubbare, phir welcome card (Welcome + chhoti detail)"
   ],
   "history": [
     {
+      "version": "1.6.62",
+      "changes": [
+        "'Your License' button ab License page ke upar nahi, topbar me email/WhatsApp icons ke left side par (click par wahi detail card)"
+      ]
+    },
+    {
       "version": "1.6.61",
       "changes": [
-        "License page: left ‘Your License’ card wapas (sirf right ‘Enter License Key’ section hata hai) — upar wala button + detail card wahi"
+        "License page: left \u2018Your License\u2019 card wapas (sirf right \u2018Enter License Key\u2019 section hata hai) \u2014 upar wala button + detail card wahi"
       ]
     },
     {
@@ -44,10 +50,10 @@
     {
       "version": "1.6.56",
       "changes": [
-        "Uninstall ke baad dobara install par license dobara mangi jayegi — baghair key ke active nahi hogi (library/schedules mehfooz rahenge)",
-        "Install ke baad app khulte hi license key ka pop-up — key wahin daal kar activate karo, License page dhoondna nahi parega",
+        "Uninstall ke baad dobara install par license dobara mangi jayegi \u2014 baghair key ke active nahi hogi (library/schedules mehfooz rahenge)",
+        "Install ke baad app khulte hi license key ka pop-up \u2014 key wahin daal kar activate karo, License page dhoondna nahi parega",
         "License key ab Enter License Key card ke neeche show hogi + Copy button (Your License card phir chhota)",
-        "YouTube tab, Dashboard aur Analytics ab foran khulenge — 3-second server wait khatam (server refresh background me)",
+        "YouTube tab, Dashboard aur Analytics ab foran khulenge \u2014 3-second server wait khatam (server refresh background me)",
         "Activation celebration naya: left-right se gubbare, phir welcome card (Welcome + chhoti detail)"
       ]
     },
@@ -61,7 +67,7 @@
     {
       "version": "1.6.54",
       "changes": [
-        "Low-content reminder ab Settings me configurable: low content threshold field (default 4, 0 = band) — customer khud number rakh sakta hai"
+        "Low-content reminder ab Settings me configurable: low content threshold field (default 4, 0 = band) \u2014 customer khud number rakh sakta hai"
       ]
     },
     {
@@ -94,7 +100,7 @@
     {
       "version": "1.6.49",
       "changes": [
-        "YouTube All-channels overview aur auto-refresh hata diya gaya — YouTube tab/Analytics pehle jaisa (aik channel select + Load wali detail)"
+        "YouTube All-channels overview aur auto-refresh hata diya gaya \u2014 YouTube tab/Analytics pehle jaisa (aik channel select + Load wali detail)"
       ]
     },
     {
@@ -107,26 +113,26 @@
     {
       "version": "1.6.47",
       "changes": [
-        "Dashboard tabs ke kone ab sirf mamooli se gol (pill khatam) — pehli dafa ulta samajh liya tha",
+        "Dashboard tabs ke kone ab sirf mamooli se gol (pill khatam) \u2014 pehli dafa ulta samajh liya tha",
         "YouTube tab me All channels overview: Load all channels par saare channels ke total subs/views/videos + har channel ki alag line + har channel ki detail ka button"
       ]
     },
     {
       "version": "1.6.46",
       "changes": [
-        "Dashboard analytics tabs (Pages/YouTube) thode patle aur saaf pill shape me — pehle mote oval lagte the"
+        "Dashboard analytics tabs (Pages/YouTube) thode patle aur saaf pill shape me \u2014 pehle mote oval lagte the"
       ]
     },
     {
       "version": "1.6.45",
       "changes": [
-        "Scheduled jobs table me waqt ke sath timezone bhi dikhega (jese CDT) — reschedule modal wale Karachi waqt se farq foran nazar ayega"
+        "Scheduled jobs table me waqt ke sath timezone bhi dikhega (jese CDT) \u2014 reschedule modal wale Karachi waqt se farq foran nazar ayega"
       ]
     },
     {
       "version": "1.6.44",
       "changes": [
-        "Google connect success page ab poori English me (pehle aadha Urdu tha) — verification video aur customers ke liye consistent"
+        "Google connect success page ab poori English me (pehle aadha Urdu tha) \u2014 verification video aur customers ke liye consistent"
       ]
     },
     {
@@ -134,7 +140,7 @@
       "changes": [
         "Auto update popup fix: app kholte hi update popup ab zaroor ayega (pehle page load hone se pehle message zaya ho jata tha)",
         "Khula app ab har 5 minute me update check karega (pehle 30 minute tha)",
-        "Zaya hua popup ab \"Later\" nahi samjha jayega — agla check dobara offer karega"
+        "Zaya hua popup ab \"Later\" nahi samjha jayega \u2014 agla check dobara offer karega"
       ]
     },
     {
@@ -146,172 +152,172 @@
     {
       "version": "1.6.41",
       "changes": [
-        "Dashboard analytics par upar ab do buttons hain — Pages aur YouTube: Pages par sirf Pages/publishing analytics, YouTube par sirf YouTube analytics (pasand save rehti hai)."
+        "Dashboard analytics par upar ab do buttons hain \u2014 Pages aur YouTube: Pages par sirf Pages/publishing analytics, YouTube par sirf YouTube analytics (pasand save rehti hai)."
       ]
     },
     {
       "version": "1.6.40",
       "changes": [
-        "Installer ke agreement page par ab checkmark hai — tick kiye baghair Next aage nahi jayega.",
+        "Installer ke agreement page par ab checkmark hai \u2014 tick kiye baghair Next aage nahi jayega.",
         "Alignment fix: Queue page ka Time box chaura (AM/PM ab andar nahi ghusega) aur Time mode dropdown chaura ('Same time daily' poora nazar ayega); page par horizontal safety net taake koi table/button kinare se cut na ho."
       ]
     },
     {
       "version": "1.6.39",
       "changes": [
-        "Analytics ab modern MetaBox style me: dots wale charts khatam — smooth gradient area charts, #1 video par gold highlight aur VIP look; publishing + YouTube insights + top videos + next events sab Dashboard par aik hi jagah, page badalne ki zaroorat nahi (Analytics page par bhi wahi unified section)."
+        "Analytics ab modern MetaBox style me: dots wale charts khatam \u2014 smooth gradient area charts, #1 video par gold highlight aur VIP look; publishing + YouTube insights + top videos + next events sab Dashboard par aik hi jagah, page badalne ki zaroorat nahi (Analytics page par bhi wahi unified section)."
       ]
     },
     {
       "version": "1.6.38",
       "changes": [
-        "Queue page ka Time box ab hamesha editable hai — Spread mode me wo lock ho jata tha, is liye apna time adjust nahi hota tha. Ab koi bhi time chuno (4, 5, 6, 7, 8 baje ya koi bhi minute) to mode khud 'Same time daily' ho jayega aur wahi time laagu hoga."
+        "Queue page ka Time box ab hamesha editable hai \u2014 Spread mode me wo lock ho jata tha, is liye apna time adjust nahi hota tha. Ab koi bhi time chuno (4, 5, 6, 7, 8 baje ya koi bhi minute) to mode khud 'Same time daily' ho jayega aur wahi time laagu hoga."
       ]
     },
     {
       "version": "1.6.37",
       "changes": [
-        "Footer clock (IP + location + time wali pati) ab 12-hour AM/PM me chalegi — pehle us me 24-hour zabardasti set tha, is liye pichle version me wo nahi badli thi; ab wahi asal jagah theek hui hai."
+        "Footer clock (IP + location + time wali pati) ab 12-hour AM/PM me chalegi \u2014 pehle us me 24-hour zabardasti set tha, is liye pichle version me wo nahi badli thi; ab wahi asal jagah theek hui hai."
       ]
     },
     {
       "version": "1.6.36",
       "changes": [
-        "Library se delete ab waqai delete karega: queue ya schedule me lagi videos pehle delete nahi ho rahi thin (database ka rule rok deta tha, khamosh fail) — ab un ki queue/scheduler entries sath hatengi; aur watch-folder ki videos dobara scan me wapas nahi ayengi (delete ki hui files blocklist me jati hain)."
+        "Library se delete ab waqai delete karega: queue ya schedule me lagi videos pehle delete nahi ho rahi thin (database ka rule rok deta tha, khamosh fail) \u2014 ab un ki queue/scheduler entries sath hatengi; aur watch-folder ki videos dobara scan me wapas nahi ayengi (delete ki hui files blocklist me jati hain)."
       ]
     },
     {
       "version": "1.6.35",
       "changes": [
-        "Tamam times ab 12-hour AM/PM format me nazar ayenge (masalan 5:00 PM) — Scheduler, Dashboard aur logs me 24-hour format khatam; time select karne wali jagah par bhi AM/PM saaf likha nazar ayega."
+        "Tamam times ab 12-hour AM/PM format me nazar ayenge (masalan 5:00 PM) \u2014 Scheduler, Dashboard aur logs me 24-hour format khatam; time select karne wali jagah par bhi AM/PM saaf likha nazar ayega."
       ]
     },
     {
       "version": "1.6.34",
       "changes": [
-        "Scheduler page par ab jobs ko select karke Cancel ya Delete kar sakte ho — header checkbox se sab select, phir 'Cancel selected' ya 'Delete selected'; delete ki hui jobs list se poori tarah hat jati hain aur un ki videos wapas queue me aa jati hain.",
-        "Scheduling me naya 'Same time daily' mode — Queue page par time chuno (masalan 17:00) to us din ki tamam videos usi aik waqt par schedule hongi, rozana wahi waqt; purana 'Spread times' mode bhi maujood hai."
+        "Scheduler page par ab jobs ko select karke Cancel ya Delete kar sakte ho \u2014 header checkbox se sab select, phir 'Cancel selected' ya 'Delete selected'; delete ki hui jobs list se poori tarah hat jati hain aur un ki videos wapas queue me aa jati hain.",
+        "Scheduling me naya 'Same time daily' mode \u2014 Queue page par time chuno (masalan 17:00) to us din ki tamam videos usi aik waqt par schedule hongi, rozana wahi waqt; purana 'Spread times' mode bhi maujood hai."
       ]
     },
     {
       "version": "1.6.33",
       "changes": [
-        "Scheduling me ab rozana videos ki tadaad chun sakte ho (1, 2 ya 3 per day) — Queue page par Generate Schedule ke sath dropdown; pehle YouTube par sirf 2/day hardcode tha. Choice mehfooz ho jati hai.",
-        "Library me 'Sab select karo' button aa gaya hai — folder ka page filter lagao, aik click me us ki sari videos select, phir Add to queue."
+        "Scheduling me ab rozana videos ki tadaad chun sakte ho (1, 2 ya 3 per day) \u2014 Queue page par Generate Schedule ke sath dropdown; pehle YouTube par sirf 2/day hardcode tha. Choice mehfooz ho jati hai.",
+        "Library me 'Sab select karo' button aa gaya hai \u2014 folder ka page filter lagao, aik click me us ki sari videos select, phir Add to queue."
       ]
     },
     {
       "version": "1.6.32",
       "changes": [
-        "Analytics me ab YouTube Studio jaisa day-wise line chart aa gaya hai — channel ya aik video chuno, aakhri 28 din ke rozana views graph par nazar ayenge (YouTube Analytics API se).",
-        "Add to queue me ab baghair target tick kiye Add dabane par khamosh '0 added' nahi ayega — warning ayegi aur modal khula rahega taake tick laga kar dobara daba sako."
+        "Analytics me ab YouTube Studio jaisa day-wise line chart aa gaya hai \u2014 channel ya aik video chuno, aakhri 28 din ke rozana views graph par nazar ayenge (YouTube Analytics API se).",
+        "Add to queue me ab baghair target tick kiye Add dabane par khamosh '0 added' nahi ayega \u2014 warning ayegi aur modal khula rahega taake tick laga kar dobara daba sako."
       ]
     },
     {
       "version": "1.6.31",
       "changes": [
-        "Media Library ka toolbar ab scroll par upar hi khara rahega (sticky) — neeche video select karke Add to queue ke liye wapas upar nahi jana parega.",
-        "Analytics me YouTube channel insights bhi aa gaya hai (Pages jaisa) — channel chuno, Load dabao: subscribers, total views, total videos aur views ke hisaab se top videos nazar ayenge.",
+        "Media Library ka toolbar ab scroll par upar hi khara rahega (sticky) \u2014 neeche video select karke Add to queue ke liye wapas upar nahi jana parega.",
+        "Analytics me YouTube channel insights bhi aa gaya hai (Pages jaisa) \u2014 channel chuno, Load dabao: subscribers, total views, total videos aur views ke hisaab se top videos nazar ayenge.",
         "Add to queue modal me ab aik video select ho to us ka title aur hashtags pehle se bhare hue ayenge; kai videos hon to note batayega ke khaali chhorne par har video ka apna title/hashtags khud lag jayenge."
       ]
     },
     {
       "version": "1.6.30",
       "changes": [
-        "App khula ho to bhi nayi release ka popup khud aa jayega — ab har 30 minute par background me update check hota hai, restart ya manual check ka intezar nahi. Later dabane par usi version ka popup us session me dobara nahi ayega."
+        "App khula ho to bhi nayi release ka popup khud aa jayega \u2014 ab har 30 minute par background me update check hota hai, restart ya manual check ka intezar nahi. Later dabane par usi version ka popup us session me dobara nahi ayega."
       ]
     },
     {
       "version": "1.6.29",
       "changes": [
-        "Library scan aur single video upload ka '11 values for 12 columns' error theek — video save karne wali database query me 12 columns ke liye sirf 11 jagah thi, is liye har import fail ho raha tha; ab folder ki videos aur single uploads dono library me ayenge.",
+        "Library scan aur single video upload ka '11 values for 12 columns' error theek \u2014 video save karne wali database query me 12 columns ke liye sirf 11 jagah thi, is liye har import fail ho raha tha; ab folder ki videos aur single uploads dono library me ayenge.",
         "Agar aage kabhi koi import fail ho to scan toast pehli ghalti ki wajah bhi dikhayega, khamosh nahi rahega."
       ]
     },
     {
       "version": "1.6.28",
       "changes": [
-        "Update download ab ruk kar wahin se shuru hogi — download bar par Stop, Resume aur Remove buttons: net slow ho ya bijli jaye, download wahin rukegi aur Resume par wahin se aage chalegi, dobara shuru se nahi.",
+        "Update download ab ruk kar wahin se shuru hogi \u2014 download bar par Stop, Resume aur Remove buttons: net slow ho ya bijli jaye, download wahin rukegi aur Resume par wahin se aage chalegi, dobara shuru se nahi.",
         "Laptop dobara on karne par adhuri download khud wahin se aage shuru ho jayegi (poochhe baghair)."
       ]
     },
     {
       "version": "1.6.27",
       "changes": [
-        "License card par hint line wapas — number ke baghair: 'No key? Get it on WhatsApp \\u2014 tap the button below.' taake customer ko pata chale ke key kahan se leni hai."
+        "License card par hint line wapas \u2014 number ke baghair: 'No key? Get it on WhatsApp \\u2014 tap the button below.' taake customer ko pata chale ke key kahan se leni hai."
       ]
     },
     {
       "version": "1.6.26",
       "changes": [
-        "Number ab kahin likha hua nazar nahi ayega — License aur header par sirf WhatsApp button rahega, chat ka link usi button me hai.",
+        "Number ab kahin likha hua nazar nahi ayega \u2014 License aur header par sirf WhatsApp button rahega, chat ka link usi button me hai.",
         "Startup settings me checkbox ki jagah on/off toggle switches aa gaye hain (Launch at Windows startup, Start minimized to tray)."
       ]
     },
     {
       "version": "1.6.25",
       "changes": [
-        "Library ab har video format pehchanti hai — mp4 ke ilawa wmv, flv, 3gp, mpg, mpeg, m2ts, vob, rm, asf, ogv, mxf waghera sab scan aur upload me nazar ayengi.",
+        "Library ab har video format pehchanti hai \u2014 mp4 ke ilawa wmv, flv, 3gp, mpg, mpeg, m2ts, vob, rm, asf, ogv, mxf waghera sab scan aur upload me nazar ayengi.",
         "Update dobara click hone par dobara download nahi hoga, aur har download alag temp file me hogi taake file-lock error dobara na aaye."
       ]
     },
     {
       "version": "1.6.24",
       "changes": [
-        "Library folder scan fix: folder select karne par videos nahi aa rahi thin — ab scan folder ka rasta sahi tareeqe se pehchanta hai (short/long path farq khatam), aur 0 import par saaf wajah batayega: kitni files mili, kitni pehle se library me thin, ya folder nahi khul raha."
+        "Library folder scan fix: folder select karne par videos nahi aa rahi thin \u2014 ab scan folder ka rasta sahi tareeqe se pehchanta hai (short/long path farq khatam), aur 0 import par saaf wajah batayega: kitni files mili, kitni pehle se library me thin, ya folder nahi khul raha."
       ]
     },
     {
       "version": "1.6.23",
       "changes": [
-        "Notifications: aakhri notification ke neeche divider line khatam — ab list saaf tareeqe se khatam hoti hai aur bottom me gap nazar ata hai."
+        "Notifications: aakhri notification ke neeche divider line khatam \u2014 ab list saaf tareeqe se khatam hoti hai aur bottom me gap nazar ata hai."
       ]
     },
     {
       "version": "1.6.21",
       "changes": [
-        "Installer wapas standard (default) look par — NSIS ke dialogs me tool jaisa glass UI possible nahi (wo Chromium ka blur/translucency hai, Win32 dialogs me nahi hota), is liye tamam custom theme hata kar clean default installer rakha gaya hai."
+        "Installer wapas standard (default) look par \u2014 NSIS ke dialogs me tool jaisa glass UI possible nahi (wo Chromium ka blur/translucency hai, Win32 dialogs me nahi hota), is liye tamam custom theme hata kar clean default installer rakha gaya hai."
       ]
     },
     {
       "version": "1.6.20",
       "changes": [
-        "Installer ab poora dark hai — koi cheez white nahi: buttons bhi dark (Next/Install neela, Back/Cancel dark panel), License box dark (safed text), progress bar neeli bar + dark track, aur uninstaller ke pages bhi isi theme me.",
-        "Notifications + Activity Logs: har row wala checkbox hata diya (wohi design kharab kar raha tha) — ab sirf toolbar me aik chhota Select All checkbox hai, tick karne par sari rows select hoti hain, phir Delete Selected."
+        "Installer ab poora dark hai \u2014 koi cheez white nahi: buttons bhi dark (Next/Install neela, Back/Cancel dark panel), License box dark (safed text), progress bar neeli bar + dark track, aur uninstaller ke pages bhi isi theme me.",
+        "Notifications + Activity Logs: har row wala checkbox hata diya (wohi design kharab kar raha tha) \u2014 ab sirf toolbar me aik chhota Select All checkbox hai, tick karne par sari rows select hoti hain, phir Delete Selected."
       ]
     },
     {
       "version": "1.6.19",
       "changes": [
-        "Download bar ab real-time hai — pehle progress har 5% par update hoti thi (122 MB file par ~6 MB ke jumps), ab har 200ms par MB ginta hua nazar ayega aur sath live speed bhi (jaise 2.4 MB/s)."
+        "Download bar ab real-time hai \u2014 pehle progress har 5% par update hoti thi (122 MB file par ~6 MB ke jumps), ab har 200ms par MB ginta hua nazar ayega aur sath live speed bhi (jaise 2.4 MB/s)."
       ]
     },
     {
       "version": "1.6.18",
       "changes": [
-        "Installer theme repair: Installing page par text ka overlap/ghich-pich khatam — har label ka background ab solid dark hai, taake update hone wala status text har dafa saaf chhape; License ka text box bhi dark karne ki koshish ki gayi hai.",
-        "Notifications aur Activity Logs me ab bulk delete hai — har row par checkbox, upar Select All, phir Delete Selected se aik sath sab delete karein (confirm ke baad)."
+        "Installer theme repair: Installing page par text ka overlap/ghich-pich khatam \u2014 har label ka background ab solid dark hai, taake update hone wala status text har dafa saaf chhape; License ka text box bhi dark karne ki koshish ki gayi hai.",
+        "Notifications aur Activity Logs me ab bulk delete hai \u2014 har row par checkbox, upar Select All, phir Delete Selected se aik sath sab delete karein (confirm ke baad)."
       ]
     },
     {
       "version": "1.6.17",
       "changes": [
-        "Notifications page par har notification ke sath Delete button aa gaya hai, aur Activity Logs page par bhi har entry ke sath Delete button hai — delete karne se pehle confirm poocha jayega.",
-        "Update download hote waqt ab bar ke neeche poora status nazar ayega — kitne percent ho gaye, kitni MB aa gayi, kul kitni MB hai aur kitni MB baqi hai.",
-        "Installer ab poori tarah app theme me hai — har step (Welcome, License, Directory, Installing, Finish) dark navy rang me safed text ke sath; logo hata diya gaya hai aur Welcome/Finish ka left panel sirf plain dark strip hai."
+        "Notifications page par har notification ke sath Delete button aa gaya hai, aur Activity Logs page par bhi har entry ke sath Delete button hai \u2014 delete karne se pehle confirm poocha jayega.",
+        "Update download hote waqt ab bar ke neeche poora status nazar ayega \u2014 kitne percent ho gaye, kitni MB aa gayi, kul kitni MB hai aur kitni MB baqi hai.",
+        "Installer ab poori tarah app theme me hai \u2014 har step (Welcome, License, Directory, Installing, Finish) dark navy rang me safed text ke sath; logo hata diya gaya hai aur Welcome/Finish ka left panel sirf plain dark strip hai."
       ]
     },
     {
       "version": "1.6.16",
       "changes": [
-        "Installer ab app theme jaisa hai — Welcome/Finish pages par dark navy artwork (gol kon wala card, loop logo), har page ke header me theme patti, install progress page dark, app icon aur MetaBox branding; Windows 11 par installer window ke kon bhi gol honge."
+        "Installer ab app theme jaisa hai \u2014 Welcome/Finish pages par dark navy artwork (gol kon wala card, loop logo), har page ke header me theme patti, install progress page dark, app icon aur MetaBox branding; Windows 11 par installer window ke kon bhi gol honge."
       ]
     },
     {
       "version": "1.6.15",
       "changes": [
-        "Logo ke rangin boxes wala masla theek hua — hardware acceleration band kar di gayi hai, ab tasveer software rendering se banegi aur waqt ke sath kharab nahi hogi.",
-        "Sidebar me neeche wala LIFETIME pill ab clickable hai — click karne par seedha License tab khul jayega."
+        "Logo ke rangin boxes wala masla theek hua \u2014 hardware acceleration band kar di gayi hai, ab tasveer software rendering se banegi aur waqt ke sath kharab nahi hogi.",
+        "Sidebar me neeche wala LIFETIME pill ab clickable hai \u2014 click karne par seedha License tab khul jayega."
       ]
     },
     {
@@ -323,25 +329,25 @@
     {
       "version": "1.6.13",
       "changes": [
-        "App me ab mouse se bhi copy-paste chalega — kisi bhi field me right-click karne par edit menu ayega (Undo, Redo, Cut, Copy, Paste, Delete, Select All). Pehle Electron me default right-click menu hota hi nahi tha, is liye sirf Ctrl+V kaam karta tha."
+        "App me ab mouse se bhi copy-paste chalega \u2014 kisi bhi field me right-click karne par edit menu ayega (Undo, Redo, Cut, Copy, Paste, Delete, Select All). Pehle Electron me default right-click menu hota hi nahi tha, is liye sirf Ctrl+V kaam karta tha."
       ]
     },
     {
       "version": "1.6.12",
       "changes": [
-        "App khulte hi update ka popup foran ayega — ghanton (2/4/6/12/24) wale interval check khatam kar diye gaye hain, Settings se wo option bhi hata diya gaya hai. Manual 'Check for updates' wahi rahega.",
-        "Library me Upload / Folder / Scan ab khamosh nahi rahenge — kitni files aayi, kitni pehle se maujood thin (duplicates), ya koi error aaya, sab ka saaf message ayega; 0 import par wajah bhi likhi hogi."
+        "App khulte hi update ka popup foran ayega \u2014 ghanton (2/4/6/12/24) wale interval check khatam kar diye gaye hain, Settings se wo option bhi hata diya gaya hai. Manual 'Check for updates' wahi rahega.",
+        "Library me Upload / Folder / Scan ab khamosh nahi rahenge \u2014 kitni files aayi, kitni pehle se maujood thin (duplicates), ya koi error aaya, sab ka saaf message ayega; 0 import par wajah bhi likhi hogi."
       ]
     },
     {
       "version": "1.6.11",
       "changes": [
-        "Library Search apni upar wali line me (right side), baqi buttons neeche aik line me — neeli scrollbar line khatam ho gayi hai."
+        "Library Search apni upar wali line me (right side), baqi buttons neeche aik line me \u2014 neeli scrollbar line khatam ho gayi hai."
       ]
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128368664,
+  "size": 128368678,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.61"
+  "version": "1.6.62"
 }
