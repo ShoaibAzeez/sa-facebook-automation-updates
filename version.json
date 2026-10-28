@@ -1,12 +1,30 @@
 {
   "changes": [
-    "Uninstall ke baad dobara install par license dobara mangi jayegi — baghair key ke active nahi hogi (library/schedules mehfooz rahenge)",
-    "Install ke baad app khulte hi license key ka pop-up — key wahin daal kar activate karo, License page dhoondna nahi parega",
-    "License key ab Enter License Key card ke neeche show hogi + Copy button (Your License card phir chhota)",
-    "YouTube tab, Dashboard aur Analytics ab foran khulenge — 3-second server wait khatam (server refresh background me)",
-    "Activation celebration naya: left-right se gubbare, phir welcome card (Welcome + chhoti detail)"
+    "Toast ab modal ke upar nazar ayega (z-index fix)",
+    "Scheduler table ke checkboxes ab phailenge nahi",
+    "Job update par app user ko doosre page se dashboard par nahi le jayega",
+    "Account reconnect toast me sahi message (title/body duplicate fix)",
+    "Queue page: koi target na ho to Generate dabane par warning toast",
+    "Notifications/Logs: Delete Selected ab pehle se disabled, Select All par enable",
+    "Calendar events ab clickable nahi lagenge (ghalat pointer hataya)",
+    "Tabs aur toggle switches par hover feedback",
+    "Dashboard Upcoming aur Calendar me YouTube jobs bhi nazar ayenge"
   ],
   "history": [
+    {
+      "version": "1.6.65",
+      "changes": [
+        "Toast ab modal ke upar nazar ayega (z-index fix)",
+        "Scheduler table ke checkboxes ab phailenge nahi",
+        "Job update par app user ko doosre page se dashboard par nahi le jayega",
+        "Account reconnect toast me sahi message (title/body duplicate fix)",
+        "Queue page: koi target na ho to Generate dabane par warning toast",
+        "Notifications/Logs: Delete Selected ab pehle se disabled, Select All par enable",
+        "Calendar events ab clickable nahi lagenge (ghalat pointer hataya)",
+        "Tabs aur toggle switches par hover feedback",
+        "Dashboard Upcoming aur Calendar me YouTube jobs bhi nazar ayenge"
+      ]
+    },
     {
       "version": "1.6.64",
       "changes": [
@@ -362,7 +380,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128369935,
+  "size": 128370324,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.64"
+  "version": "1.6.65"
 }
