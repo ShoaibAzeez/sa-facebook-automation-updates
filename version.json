@@ -8,6 +8,13 @@
   ],
   "history": [
     {
+      "version": "1.6.64",
+      "changes": [
+        "Topbar button par sirf active plan (Lifetime/Weekly/Monthly) + khoobsurat key icon; 'Your License' text hata diya gaya",
+        "Bina license ke button par 'Activate' + click par key wala popup"
+      ]
+    },
+    {
       "version": "1.6.63",
       "changes": [
         "Topbar 'Your License' button par active plan (Weekly/Monthly/Lifetime) nazar aayega",
@@ -355,7 +362,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128369615,
+  "size": 128369935,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.63"
+  "version": "1.6.64"
 }
