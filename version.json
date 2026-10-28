@@ -8,6 +8,12 @@
   ],
   "history": [
     {
+      "version": "1.6.58",
+      "changes": [
+        "Celebration: pattiyan ab neeche ke left-right kono se nikal kar upar ja kar gayab hoti hain (wapas neeche nahi), welcome card celebration ke sath hi foran aata hai"
+      ]
+    },
+    {
       "version": "1.6.57",
       "changes": [
         "Celebration: balloons ki jagah Canva-style chhoti rang-birangi pattiyan (neeche se upar, phir wapas neeche) + blur backdrop + halka welcome card",
@@ -315,7 +321,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128367637,
+  "size": 128367742,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.57"
+  "version": "1.6.58"
 }
