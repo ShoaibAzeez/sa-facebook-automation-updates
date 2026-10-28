@@ -8,6 +8,12 @@
   ],
   "history": [
     {
+      "version": "1.6.61",
+      "changes": [
+        "License page: left ‘Your License’ card wapas (sirf right ‘Enter License Key’ section hata hai) — upar wala button + detail card wahi"
+      ]
+    },
+    {
       "version": "1.6.60",
       "changes": [
         "License page: sirf upar 'Your License' button, sari detail (plan/features/expiry/key) click par beech me card me (Enter License Key section hata diya gaya)",
@@ -335,7 +341,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128368394,
+  "size": 128368664,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.60"
+  "version": "1.6.61"
 }
