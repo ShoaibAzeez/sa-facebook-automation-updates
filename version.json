@@ -8,6 +8,13 @@
   ],
   "history": [
     {
+      "version": "1.6.60",
+      "changes": [
+        "License page: sirf upar 'Your License' button, sari detail (plan/features/expiry/key) click par beech me card me (Enter License Key section hata diya gaya)",
+        "Popup se activate karte hi khud server verify + License page foran taaza (Verify now ki zaroorat nahi)"
+      ]
+    },
+    {
       "version": "1.6.59",
       "changes": [
         "First-run license card: naya title aur 'Please enter your key to access pro features' wali line (Activate + Later wahi)",
@@ -328,7 +335,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128368085,
+  "size": 128368394,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.59"
+  "version": "1.6.60"
 }
