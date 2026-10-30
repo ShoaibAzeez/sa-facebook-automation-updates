@@ -1,11 +1,16 @@
 {
   "changes": [
-    "Facebook Page par photo posts ka flow mukammal — Library se photo queue, schedule, waqt par auto post",
-    "Queue modal me photo select karne par YouTube section nahi dikhta (photos sirf Facebook Page par post hoti hain)",
-    "Mixed selection me images YouTube ko nahi bheji jatin (wo fail hoti)",
-    "Photo posts ke liye title caption ki pehli line ban kar jata hai"
+    "Installer ki tamam lines ab English me hain (welcome, license aur finish pages)",
+    "License agreement dobara likha gaya — software ki tamam features wazeh taur par likhi hain (Facebook + YouTube + photo posts + license + privacy)"
   ],
   "history": [
+    {
+      "version": "1.6.69",
+      "changes": [
+        "Installer ki tamam lines ab English me hain (welcome, license aur finish pages)",
+        "License agreement dobara likha gaya — software ki tamam features wazeh taur par likhi hain (Facebook + YouTube + photo posts + license + privacy)"
+      ]
+    },
     {
       "version": "1.6.68",
       "changes": [
@@ -403,7 +408,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128370875,
+  "size": 128372039,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.68"
+  "version": "1.6.69"
 }
