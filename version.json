@@ -1,11 +1,20 @@
 {
   "changes": [
-    "Sidebar me Analytics tab YouTube Analytics ke foran neeche le aaya gaya",
-    "YouTube Analytics Content tab me channel select karne par us channel ki Top 5 videos, All par tamam channels ki Top 5",
-    "Har Top video ke sath us ki publish date bhi dikhti hai",
-    "Top videos ab 5 dikhti hain (pehle 10)"
+    "Facebook Page par photo posts ka flow mukammal — Library se photo queue, schedule, waqt par auto post",
+    "Queue modal me photo select karne par YouTube section nahi dikhta (photos sirf Facebook Page par post hoti hain)",
+    "Mixed selection me images YouTube ko nahi bheji jatin (wo fail hoti)",
+    "Photo posts ke liye title caption ki pehli line ban kar jata hai"
   ],
   "history": [
+    {
+      "version": "1.6.68",
+      "changes": [
+        "Facebook Page par photo posts ka flow mukammal — Library se photo queue, schedule, waqt par auto post",
+        "Queue modal me photo select karne par YouTube section nahi dikhta (photos sirf Facebook Page par post hoti hain)",
+        "Mixed selection me images YouTube ko nahi bheji jatin (wo fail hoti)",
+        "Photo posts ke liye title caption ki pehli line ban kar jata hai"
+      ]
+    },
     {
       "version": "1.6.67",
       "changes": [
@@ -394,7 +403,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128370431,
+  "size": 128370875,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.67"
+  "version": "1.6.68"
 }
