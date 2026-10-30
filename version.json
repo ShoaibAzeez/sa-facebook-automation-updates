@@ -1,12 +1,20 @@
 {
   "changes": [
-    "Sidebar se License aur Notifications tabs hata diye gaye",
-    "License ab sirf upar wale top button se khulta hai (detail modal)",
-    "Notifications ab upar wale ghanti (bell) icon se khulti hain",
-    "Sidebar se license status pill bhi hata di gayi — plan ab sirf top button par nazar ayega",
-    "Dashboard aur About page ke License Info buttons ab license modal/popup kholte hain"
+    "Sidebar me Analytics tab YouTube Analytics ke foran neeche le aaya gaya",
+    "YouTube Analytics Content tab me channel select karne par us channel ki Top 5 videos, All par tamam channels ki Top 5",
+    "Har Top video ke sath us ki publish date bhi dikhti hai",
+    "Top videos ab 5 dikhti hain (pehle 10)"
   ],
   "history": [
+    {
+      "version": "1.6.67",
+      "changes": [
+        "Sidebar me Analytics tab YouTube Analytics ke foran neeche le aaya gaya",
+        "YouTube Analytics Content tab me channel select karne par us channel ki Top 5 videos, All par tamam channels ki Top 5",
+        "Har Top video ke sath us ki publish date bhi dikhti hai",
+        "Top videos ab 5 dikhti hain (pehle 10)"
+      ]
+    },
     {
       "version": "1.6.66",
       "changes": [
@@ -386,7 +394,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128369949,
+  "size": 128370431,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.66"
+  "version": "1.6.67"
 }
