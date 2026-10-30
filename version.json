@@ -1,9 +1,18 @@
 {
   "changes": [
-    "Installer ki tamam lines ab English me hain (welcome, license aur finish pages)",
-    "License agreement dobara likha gaya — software ki tamam features wazeh taur par likhi hain (Facebook + YouTube + photo posts + license + privacy)"
+    "Sidebar license pill (LIFETIME) wapas — neeche left, jaisa pehle tha",
+    "Analytics Top videos par upload date + time dikhegi",
+    "Analytics tab khulte hi FB + YouTube insights khud load hon ge, Load dabana nahi parega"
   ],
   "history": [
+    {
+      "version": "1.6.70",
+      "changes": [
+        "Sidebar license pill (LIFETIME) wapas — neeche left, jaisa pehle tha",
+        "Analytics Top videos par upload date + time dikhegi",
+        "Analytics tab khulte hi FB + YouTube insights khud load hon ge, Load dabana nahi parega"
+      ]
+    },
     {
       "version": "1.6.69",
       "changes": [
@@ -408,7 +417,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128372039,
+  "size": 128372569,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.69"
+  "version": "1.6.70"
 }
