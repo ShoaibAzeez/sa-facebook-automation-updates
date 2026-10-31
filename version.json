@@ -1,9 +1,18 @@
 {
   "changes": [
-    "Weekly plan support — nayi Weekly keys sahi dikhengi (purani Trial keys bhi waisi hi)",
-    "License detail + sidebar pill par key ki Category bhi dikhegi"
+    "Library me YouTube channels ka filter — channel select karo to sirf us ki videos dikhengi, Move to channel bhi Page ki tarah",
+    "Control Panel (Uninstall or change a program) me app ka installed size dikhega",
+    "Page insights theek — Meta ne page_engaged_users hata diya tha, is liye (#100) error aa raha tha; ab sirf valid metrics + aik metric fail ho to baqi phir bhi ayen gi"
   ],
   "history": [
+    {
+      "version": "1.6.72",
+      "changes": [
+        "Library me YouTube channels ka filter — channel select karo to sirf us ki videos dikhengi, Move to channel bhi Page ki tarah",
+        "Control Panel (Uninstall or change a program) me app ka installed size dikhega",
+        "Page insights theek — Meta ne page_engaged_users hata diya tha, is liye (#100) error aa raha tha; ab sirf valid metrics + aik metric fail ho to baqi phir bhi ayen gi"
+      ]
+    },
     {
       "version": "1.6.71",
       "changes": [
@@ -423,7 +432,7 @@
     }
   ],
   "notes": "Naya version v1.6.42 tayyar hai. Audit fixes.",
-  "size": 128372808,
+  "size": 128375225,
   "url": "https://drive.google.com/uc?export=download&id=1-gyyl9cs9HkiG_J80dJD2__u31MVGu7k",
-  "version": "1.6.71"
+  "version": "1.6.72"
 }
