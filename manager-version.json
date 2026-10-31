@@ -1,11 +1,10 @@
 {
   "changes": [
-    "Trial plan bilkul khatam — nayi keys sirf Weekly, Monthly, Yearly ya Lifetime par banengi",
-    "Har key par Category (Personal / Team / Agency / Pro / VIP ya apni marzi ki) — khud likho",
-    "Weekly plan naya (7 din)"
+    "Category ab seedha dropdown hai — Personal, Team, Agency, Pro, VIP sab aik sath nazar ayenge",
+    "Custom category bhi likh sakte hain (Custom chunein to neeche box khul jayega)"
   ],
   "notes": "Naya version v1.2.12 tayyar hai. Installer checkbox.",
-  "size": 122300319,
+  "size": 122300367,
   "url": "https://drive.google.com/uc?export=download&id=1E17sFp13cEfDuez7pXumek-gcW1twI3z",
-  "version": "1.2.13"
+  "version": "1.2.14"
 }
